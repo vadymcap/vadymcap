@@ -6,6 +6,8 @@
 
 </div>
 
+<iframe src="https://discord.com/widget?id=1262080888448090143&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 <!--
 **vadymcap/vadymcap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
