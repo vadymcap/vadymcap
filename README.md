@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<div align="center">
+
+[![Discord](https://img.shields.io/discord/1262080888448090143?style=for-the-badge&logo=discord&logoColor=d9e0ee&label=chat&labelColor=302d41&color=b7bdf8)](https://discord.gg/gQRfWpTsEE)
+
+</div>
+
 <!--
 **vadymcap/vadymcap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
