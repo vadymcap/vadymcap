@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a freelance programmer passionate about creating efficient and elegant solutions. My expertise spans multiple areas:
+I'm a freelance programmer passionate about creating efficient and elegant solutions. My experience includes:
 
 - **Software Development** - Building website and libraries
 - **UI/UX Design** - Designing beautiful interfaces
@@ -42,6 +42,6 @@ I'm a freelance programmer passionate about creating efficient and elegant solut
 
 <div align="center">
 
-💬 Feel free to reach out on [Discord](https://discord.gg/gQRfWpTsEE) for collaborations or questions!
+Feel free to reach out on [Discord](https://discord.gg/gQRfWpTsEE) for collaborations or questions!
 
 </div>
