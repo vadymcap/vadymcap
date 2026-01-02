@@ -3,8 +3,6 @@
 # Hi there, I'm Vadym 👋
 
 [![Discord](https://img.shields.io/discord/1262080888448090143?style=for-the-badge&logo=discord&logoColor=d9e0ee&label=chat&labelColor=302d41&color=b7bdf8 "Join my Discord server")](https://discord.gg/gQRfWpTsEE)
-![GitHub followers](https://img.shields.io/github/followers/vadymcap?style=for-the-badge&logo=github "GitHub followers")
-![GitHub User's stars](https://img.shields.io/github/stars/vadymcap?style=for-the-badge&logo=github "Total stars across repositories")
 
 </div>
 
