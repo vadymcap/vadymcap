@@ -2,9 +2,9 @@
 
 # Hi there, I'm Vadym 👋
 
-[![Discord](https://img.shields.io/discord/1262080888448090143?style=for-the-badge&logo=discord&logoColor=d9e0ee&label=chat&labelColor=302d41&color=b7bdf8)](https://discord.gg/gQRfWpTsEE)
-![GitHub followers](https://img.shields.io/github/followers/vadymcap?style=for-the-badge&logo=github)
-![GitHub User's stars](https://img.shields.io/github/stars/vadymcap?style=for-the-badge&logo=github)
+[![Discord](https://img.shields.io/discord/1262080888448090143?style=for-the-badge&logo=discord&logoColor=d9e0ee&label=chat&labelColor=302d41&color=b7bdf8 "Join my Discord server")](https://discord.gg/gQRfWpTsEE)
+![GitHub followers](https://img.shields.io/github/followers/vadymcap?style=for-the-badge&logo=github "GitHub followers")
+![GitHub User's stars](https://img.shields.io/github/stars/vadymcap?style=for-the-badge&logo=github "Total stars across repositories")
 
 </div>
 
@@ -26,7 +26,7 @@ High-performance networking library for Roblox development. Features optimized r
 Memory management utility for Luau, helping developers manage cleanup and prevent memory leaks in their Roblox projects.
 
 ### [Mathf](https://github.com/vadymcap/Mathf) *(Archived)*
-Mathematical utilities library for Luau with various helper functions for game development.
+Mathematical utilities library for Luau with various helper functions for game development. Now archived as a completed reference project.
 
 ## Tech Stack
 
