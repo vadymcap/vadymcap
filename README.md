@@ -12,7 +12,7 @@ I'm a freelance programmer passionate about creating efficient and elegant solut
 
 - **Software Development** - Building website and libraries
 - **UI/UX Design** - Designing beautiful interfaces
-- **Animation** - Bringing motion to world
+- **Animation** - Bringing motion to life
 - **Game Development** - Specializing in Roblox/Luau development
 
 ## Tech Stack
