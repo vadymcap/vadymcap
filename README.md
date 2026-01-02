@@ -12,21 +12,10 @@
 
 I'm a freelance programmer passionate about creating efficient and elegant solutions. My expertise spans multiple areas:
 
-- 🖥️ **Software Development** - Building robust applications and libraries
-- 🎨 **UI/UX Design** - Crafting intuitive and beautiful interfaces
-- 🎬 **Animation** - Bringing designs to life with motion
-- 🎮 **Game Development** - Specializing in Roblox/Luau development
-
-## Featured Projects
-
-### [NetLink](https://github.com/vadymcap/NetLink)
-High-performance networking library for Roblox development. Features optimized remote event handling and efficient data transmission.
-
-### [Maid](https://github.com/vadymcap/Maid)
-Memory management utility for Luau, helping developers manage cleanup and prevent memory leaks in their Roblox projects.
-
-### [Mathf](https://github.com/vadymcap/Mathf) *(Archived)*
-Mathematical utilities library for Luau with various helper functions for game development. Now archived as a completed reference project.
+- **Software Development** - Building website and libraries
+- **UI/UX Design** - Designing beautiful interfaces
+- **Animation** - Bringing motion to world
+- **Game Development** - Specializing in Roblox/Luau development
 
 ## Tech Stack
 
