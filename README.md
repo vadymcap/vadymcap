@@ -35,6 +35,7 @@ I'm a freelance programmer passionate about creating efficient and elegant solut
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/Krita-de54e3?style=for-the-badge&logo=krita&logoColor=white)
 
 </div>
 
